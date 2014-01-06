@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScratchBoard", "ScratchBoard.vcxproj", "{39D7B977-AD7C-4CD9-B160-2F4E380A04B4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScratchBoard_org", "..\ScratchBoard_org\ScratchBoard_org.vcxproj", "{DD3A6194-ACE1-4841-99DF-9566782C83AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test_CD4052", "..\Test_CD4052\Test_CD4052.vcxproj", "{DA4B12D6-AFB2-48EA-9172-1290CEF9D003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D7B977-AD7C-4CD9-B160-2F4E380A04B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39D7B977-AD7C-4CD9-B160-2F4E380A04B4}.Debug|Win32.Build.0 = Debug|Win32
+		{39D7B977-AD7C-4CD9-B160-2F4E380A04B4}.Release|Win32.ActiveCfg = Release|Win32
+		{39D7B977-AD7C-4CD9-B160-2F4E380A04B4}.Release|Win32.Build.0 = Release|Win32
+		{DD3A6194-ACE1-4841-99DF-9566782C83AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD3A6194-ACE1-4841-99DF-9566782C83AF}.Debug|Win32.Build.0 = Debug|Win32
+		{DD3A6194-ACE1-4841-99DF-9566782C83AF}.Release|Win32.ActiveCfg = Release|Win32
+		{DD3A6194-ACE1-4841-99DF-9566782C83AF}.Release|Win32.Build.0 = Release|Win32
+		{DA4B12D6-AFB2-48EA-9172-1290CEF9D003}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA4B12D6-AFB2-48EA-9172-1290CEF9D003}.Debug|Win32.Build.0 = Debug|Win32
+		{DA4B12D6-AFB2-48EA-9172-1290CEF9D003}.Release|Win32.ActiveCfg = Release|Win32
+		{DA4B12D6-AFB2-48EA-9172-1290CEF9D003}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
