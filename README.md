@@ -1,6 +1,7 @@
 ScratchBoard
 ============
 
-ScratchBoard made with a Shrimp/Arduino
+ScratchBoard-shield for Shrimp/Arduino
 
-Not for production (yet...).
+License stripboard + underlying schematics: CC BY-NC-SA
+License sketch: GPL v2
