@@ -1,10 +1,10 @@
 /* 
 ScratchBoard/PicoBoard compatible sketch
-for Shrimp (http://shrimping.it)
+for Shrimp (http://shrimping.it / http://fromScratchEd.nl?lang=en)
 and Arduino (http://arduino.cc)
 
 The associated design (as a shield for Shrimp/Arduino) can be found on
-http://fromScratchEd.nl?lang=en under a CC-BY-NC-SA License.
+https://github.com/sdmeijer/ScratchShield under a CC BY-NC-SA License.
 
 Copyright (C) 2014  Sjoerd Dirk Meijer (http://fromScratchEd.nl)
 
