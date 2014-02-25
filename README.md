@@ -1,7 +1,8 @@
-ScratchBoard
+ScratchShield
 ============
 
 ScratchBoard-shield for Shrimp/Arduino
+--------------------------------------
 
 
 
